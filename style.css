@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+    
+}
+h1{
+text-align: center;
+font-size: 48px;
+font-weight: 200;
+}
+p{
+    font-size: 24px;
+}
+.moto{
+    width: 300px;
+    height: 300px;
+    align-items: center;
+    border-style: groove;
+}
+.boton{
+    width: 100px;
+    height: 100px;
+}
